@@ -1,0 +1,6 @@
+node-has (1.0.1-1) UNRELEASED; urgency=low
+
+  * Initial release (Closes: #nnnn)
+  * New upstream release
+
+ -- Siddhesh Rane <kingsid911@gmail.com>  Wed, 08 Feb 2017 04:16:27 +0000

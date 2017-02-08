@@ -1,0 +1,24 @@
+Source: node-has
+Section: web
+Priority: optional
+Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Uploaders: Siddhesh Rane <kingsid911@gmail.com>
+Build-Depends:
+ debhelper (>= 9)
+ , dh-buildinfo
+ , nodejs
+Standards-Version: 3.9.8
+Homepage: https://github.com/tarruda/has
+Vcs-Git: https://anonscm.debian.org/git/pkg-javascript/node-has.git
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-javascript/node-has.git
+
+Package: node-has
+Architecture: all
+Depends:
+ ${misc:Depends}
+ , nodejs
+ , node-function-bind (>= 1.0.2)
+Description: Object.prototype.hasOwnProperty.call shortcut
+ FIX_ME long description
+ .
+ Node.js is an event-based server-side JavaScript engine.
