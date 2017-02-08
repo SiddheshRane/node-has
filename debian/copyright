@@ -4,7 +4,7 @@ Upstream-Contact: https://github.com/tarruda/has/issues
 Source: https://github.com/tarruda/has
 
 Files: *
-Copyright: 2017 Thiago de Arruda <tpadilha84@gmail.com>
+Copyright: 2013 Thiago de Arruda <tpadilha84@gmail.com>
 License: Expat
 
 Files: debian/*
